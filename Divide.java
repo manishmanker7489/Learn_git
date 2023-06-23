@@ -5,7 +5,9 @@ public class Divide {
         int a = 10;
         int b = 20;
 
-        System.out.println(a/b);
+        int c =  3;
+
+        System.out.println((a/b)/c);
 
     }
 
